@@ -1,0 +1,3 @@
+Pywavelets
+opencv-python
+seaborn
